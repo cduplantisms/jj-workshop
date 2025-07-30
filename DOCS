@@ -7,3 +7,9 @@ This is the start of docs.
 ```
 ./run.sh
 ```
+
+## Architecture
+
+```
+A -> B
+```
